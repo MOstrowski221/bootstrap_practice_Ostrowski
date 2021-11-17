@@ -1,0 +1,11 @@
+/*This is where your styles would go for practice.html.*/
+h1 {
+	text-align: center; font: sans-serif;
+}
+h2 {
+	text-align: left; font: sans-serif;
+}
+h3 {text-align: left; font: icon;}
+p {
+	text-align: center; font: sans-serif;
+}
